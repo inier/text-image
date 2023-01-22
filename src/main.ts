@@ -6,7 +6,7 @@ document.body.appendChild(cvs);
 createTextImage({
   canvas: cvs,
   source: {
-    text: 'DUYI',
+    text: 'Sunny',
   },
-  replaceText: '渡一',
+  replaceText: 'Sunny-117',
 });
